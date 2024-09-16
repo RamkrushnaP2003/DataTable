@@ -11,6 +11,6 @@ Used APIs to fetch and display data from APIs
 Key Features :-
   React: Frontend library for building dynamic user interfaces.
   TypeScript: Strongly typed programming language that builds on JavaScript.
-  PrimeReact: A UI library offering various customizable components such as DataTable, OverlayPannel, buttons, etc.
-  API Integration: Demonstrates how to fetch and display data from APIs using React and PrimeReact components.
+  PrimeReact: UI library offering various customizable components such as DataTable, OverlayPannel, buttons, etc.
+  API Integration: states that how to fetch and display data from APIs using React and PrimeReact components.
 ```
