@@ -5,4 +5,4 @@
 // Live Link
 https://datatable-using-api.netlify.app/
 
-```tsx
+```
