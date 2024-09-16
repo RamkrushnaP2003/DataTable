@@ -2,7 +2,7 @@
 
 
 ```
-// Live Link
-https://datatable-using-api.netlify.app/
+Live Link
 
+https://datatable-using-api.netlify.app/
 ```
